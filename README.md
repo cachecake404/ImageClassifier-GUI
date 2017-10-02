@@ -1,6 +1,6 @@
 # ImageClassifier-GUI
 
-## Make your own custom image classifier using googles tensorflow library without knowing how to actually code the thing.
+## Make your own custom image classifier using googles tensorflow library without any experience in coding. Run the MAIN_UI.py file to get started.
 ## This project provides a GUI for users who want to make a binary image classifier using googles tensorflow and for the people who wants to mess with parameters and improve performance your more than welcome to tinker with the code in cnn_trainer.py, I have added comments on it for easy readability and so you can adjust learning parameters with ease.
 
 
